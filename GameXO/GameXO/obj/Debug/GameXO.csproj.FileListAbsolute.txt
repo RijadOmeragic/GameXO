@@ -1,0 +1,24 @@
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\bin\Debug\GameXO.exe.config
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\bin\Debug\GameXO.exe
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\bin\Debug\GameXO.pdb
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.csproj.AssemblyReference.cache
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.frmXO.resources
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.Properties.Resources.resources
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.csproj.GenerateResource.cache
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.csproj.CoreCompileInputs.cache
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.exe
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.pdb
+C:\Users\Rijad\Desktop\GameXO\GameXO\GameXO\obj\Debug\GameXO.frmIgraci.resources
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\bin\Debug\GameXO.exe.config
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\bin\Debug\GameXO.exe
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\bin\Debug\GameXO.pdb
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.csproj.AssemblyReference.cache
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.frmIgraci.resources
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.frmXO.resources
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.Properties.Resources.resources
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.csproj.GenerateResource.cache
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.csproj.CoreCompileInputs.cache
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.exe
+C:\Users\Rijad\Desktop\Igrica XO\GameXO\GameXO\obj\Debug\GameXO.pdb
